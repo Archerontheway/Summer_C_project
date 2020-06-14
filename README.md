@@ -27,3 +27,10 @@ https://open-fdoh.hub.arcgis.com/search?q=covid19
 
 https://bi.ahca.myflorida.com/t/ABICC/views/Public/HospitalBedsCounty?%3AshowAppBanner=false&%3Adisplay_count=n&%3AshowVizHome=n&%3Aorigin=viz_share_link&%3AisGuestRedirectFromVizportal=y&%3Aembed=y
 
+7. Florida medical workforce data
+
+https://data.hrsa.gov/topics/health-workforce/ahrf
+
+8. Florida Land Area County Rank
+
+http://www.usa.com/rank/florida-state--land-area--county-rank.htm
