@@ -34,3 +34,11 @@ https://data.hrsa.gov/topics/health-workforce/ahrf
 8. Florida Land Area County Rank
 
 http://www.usa.com/rank/florida-state--land-area--county-rank.htm
+
+Other Sources:
+
+2016 Florida Price Level Index:
+
+https://floridapolytechnic.org/wp-content/uploads/2016fpli.pdf
+
+
