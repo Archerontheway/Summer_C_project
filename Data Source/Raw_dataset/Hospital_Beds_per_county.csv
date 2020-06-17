@@ -1,0 +1,229 @@
+County,度量名称,度量值
+WASHINGTON,Total Staffed Bed Capacity,59
+WALTON,Total Staffed Bed Capacity,117
+VOLUSIA,Total Staffed Bed Capacity,1438
+UNION,Total Staffed Bed Capacity,125
+TAYLOR,Total Staffed Bed Capacity,16
+SUWANNEE,Total Staffed Bed Capacity,0
+SUMTER,Total Staffed Bed Capacity,347
+ST. LUCIE,Total Staffed Bed Capacity,873
+ST. JOHNS,Total Staffed Bed Capacity,325
+SEMINOLE,Total Staffed Bed Capacity,853
+SARASOTA,Total Staffed Bed Capacity,1314
+SANTA ROSA,Total Staffed Bed Capacity,314
+PUTNAM,Total Staffed Bed Capacity,84
+POLK,Total Staffed Bed Capacity,1595
+PINELLAS,Total Staffed Bed Capacity,3421
+PASCO,Total Staffed Bed Capacity,1457
+PALM BEACH,Total Staffed Bed Capacity,4145
+OSCEOLA,Total Staffed Bed Capacity,1008
+ORANGE,Total Staffed Bed Capacity,3695
+OKEECHOBEE,Total Staffed Bed Capacity,100
+OKALOOSA,Total Staffed Bed Capacity,467
+NASSAU,Total Staffed Bed Capacity,86
+MONROE,Total Staffed Bed Capacity,115
+MIAMI-DADE,Total Staffed Bed Capacity,8422
+MARTIN,Total Staffed Bed Capacity,490
+MARION,Total Staffed Bed Capacity,1091
+MANATEE,Total Staffed Bed Capacity,892
+MADISON,Total Staffed Bed Capacity,15
+LEON,Total Staffed Bed Capacity,886
+LEE,Total Staffed Bed Capacity,2077
+LAKE,Total Staffed Bed Capacity,833
+JACKSON,Total Staffed Bed Capacity,81
+INDIAN RIVER,Total Staffed Bed Capacity,453
+HOLMES,Total Staffed Bed Capacity,20
+HILLSBOROUGH,Total Staffed Bed Capacity,3793
+HIGHLANDS,Total Staffed Bed Capacity,285
+HERNANDO,Total Staffed Bed Capacity,703
+HENDRY,Total Staffed Bed Capacity,29
+HARDEE,Total Staffed Bed Capacity,25
+GULF,Total Staffed Bed Capacity,20
+GADSDEN,Total Staffed Bed Capacity,0
+FRANKLIN,Total Staffed Bed Capacity,15
+FLAGLER,Total Staffed Bed Capacity,112
+ESCAMBIA,Total Staffed Bed Capacity,1344
+DUVAL,Total Staffed Bed Capacity,3892
+DESOTO,Total Staffed Bed Capacity,55
+COLUMBIA,Total Staffed Bed Capacity,144
+COLLIER,Total Staffed Bed Capacity,850
+CLAY,Total Staffed Bed Capacity,493
+CITRUS,Total Staffed Bed Capacity,314
+CHARLOTTE,Total Staffed Bed Capacity,734
+CALHOUN,Total Staffed Bed Capacity,10
+BROWARD,Total Staffed Bed Capacity,5879
+BREVARD,Total Staffed Bed Capacity,1563
+BAY,Total Staffed Bed Capacity,523
+BAKER,Total Staffed Bed Capacity,625
+ALACHUA,Total Staffed Bed Capacity,1664
+WASHINGTON,Available Capacity,0.338983051
+WALTON,Available Capacity,0.452991453
+VOLUSIA,Available Capacity,0.278164117
+UNION,Available Capacity,0.344
+TAYLOR,Available Capacity,0.5625
+SUWANNEE,Available Capacity,
+SUMTER,Available Capacity,0.340057637
+ST. LUCIE,Available Capacity,0.198167239
+ST. JOHNS,Available Capacity,0.569230769
+SEMINOLE,Available Capacity,0.189917937
+SARASOTA,Available Capacity,0.222222222
+SANTA ROSA,Available Capacity,0.611464968
+PUTNAM,Available Capacity,0.273809524
+POLK,Available Capacity,0.161755486
+PINELLAS,Available Capacity,0.261619410
+PASCO,Available Capacity,0.212765957
+PALM BEACH,Available Capacity,0.289505428
+OSCEOLA,Available Capacity,0.215277778
+ORANGE,Available Capacity,0.130987821
+OKEECHOBEE,Available Capacity,0.61
+OKALOOSA,Available Capacity,0.211991435
+NASSAU,Available Capacity,0.720930233
+MONROE,Available Capacity,0.313043478
+MIAMI-DADE,Available Capacity,0.262764189
+MARTIN,Available Capacity,0.391836735
+MARION,Available Capacity,0.268560953
+MANATEE,Available Capacity,0.229820628
+MADISON,Available Capacity,0.533333333
+LEON,Available Capacity,0.240406321
+LEE,Available Capacity,0.289359653
+LAKE,Available Capacity,0.220888355
+JACKSON,Available Capacity,0.716049383
+INDIAN RIVER,Available Capacity,0.357615894
+HOLMES,Available Capacity,0.65
+HILLSBOROUGH,Available Capacity,0.225678882
+HIGHLANDS,Available Capacity,0.347368421
+HERNANDO,Available Capacity,0.330014225
+HENDRY,Available Capacity,0.482758621
+HARDEE,Available Capacity,0.08
+GULF,Available Capacity,0.85
+GADSDEN,Available Capacity,
+FRANKLIN,Available Capacity,0.866666667
+FLAGLER,Available Capacity,0.223214286
+ESCAMBIA,Available Capacity,0.255952381
+DUVAL,Available Capacity,0.328622816
+DESOTO,Available Capacity,0.618181818
+COLUMBIA,Available Capacity,0.104166667
+COLLIER,Available Capacity,0.158823529
+CLAY,Available Capacity,0.093306288
+CITRUS,Available Capacity,0.308917197
+CHARLOTTE,Available Capacity,0.309264305
+CALHOUN,Available Capacity,0.3
+BROWARD,Available Capacity,0.290355503
+BREVARD,Available Capacity,0.262316059
+BAY,Available Capacity,0.208413002
+BAKER,Available Capacity,0.152
+ALACHUA,Available Capacity,0.160456731
+WASHINGTON,Available,20
+WALTON,Available,53
+VOLUSIA,Available,400
+UNION,Available,43
+TAYLOR,Available,9
+SUWANNEE,Available,0
+SUMTER,Available,118
+ST. LUCIE,Available,173
+ST. JOHNS,Available,185
+SEMINOLE,Available,162
+SARASOTA,Available,292
+SANTA ROSA,Available,192
+PUTNAM,Available,23
+POLK,Available,258
+PINELLAS,Available,895
+PASCO,Available,310
+PALM BEACH,Available,1200
+OSCEOLA,Available,217
+ORANGE,Available,484
+OKEECHOBEE,Available,61
+OKALOOSA,Available,99
+NASSAU,Available,62
+MONROE,Available,36
+MIAMI-DADE,Available,2213
+MARTIN,Available,192
+MARION,Available,293
+MANATEE,Available,205
+MADISON,Available,8
+LEON,Available,213
+LEE,Available,601
+LAKE,Available,184
+JACKSON,Available,58
+INDIAN RIVER,Available,162
+HOLMES,Available,13
+HILLSBOROUGH,Available,856
+HIGHLANDS,Available,99
+HERNANDO,Available,232
+HENDRY,Available,14
+HARDEE,Available,2
+GULF,Available,17
+GADSDEN,Available,0
+FRANKLIN,Available,13
+FLAGLER,Available,25
+ESCAMBIA,Available,344
+DUVAL,Available,1279
+DESOTO,Available,34
+COLUMBIA,Available,15
+COLLIER,Available,135
+CLAY,Available,46
+CITRUS,Available,97
+CHARLOTTE,Available,227
+CALHOUN,Available,3
+BROWARD,Available,1707
+BREVARD,Available,410
+BAY,Available,109
+BAKER,Available,95
+ALACHUA,Available,267
+WASHINGTON,Bed Census,39
+WALTON,Bed Census,64
+VOLUSIA,Bed Census,1038
+UNION,Bed Census,82
+TAYLOR,Bed Census,7
+SUWANNEE,Bed Census,0
+SUMTER,Bed Census,229
+ST. LUCIE,Bed Census,700
+ST. JOHNS,Bed Census,140
+SEMINOLE,Bed Census,691
+SARASOTA,Bed Census,1022
+SANTA ROSA,Bed Census,122
+PUTNAM,Bed Census,61
+POLK,Bed Census,1337
+PINELLAS,Bed Census,2526
+PASCO,Bed Census,1147
+PALM BEACH,Bed Census,2945
+OSCEOLA,Bed Census,791
+ORANGE,Bed Census,3211
+OKEECHOBEE,Bed Census,39
+OKALOOSA,Bed Census,368
+NASSAU,Bed Census,24
+MONROE,Bed Census,79
+MIAMI-DADE,Bed Census,6209
+MARTIN,Bed Census,298
+MARION,Bed Census,798
+MANATEE,Bed Census,687
+MADISON,Bed Census,7
+LEON,Bed Census,673
+LEE,Bed Census,1476
+LAKE,Bed Census,649
+JACKSON,Bed Census,23
+INDIAN RIVER,Bed Census,291
+HOLMES,Bed Census,7
+HILLSBOROUGH,Bed Census,2937
+HIGHLANDS,Bed Census,186
+HERNANDO,Bed Census,471
+HENDRY,Bed Census,15
+HARDEE,Bed Census,23
+GULF,Bed Census,3
+GADSDEN,Bed Census,0
+FRANKLIN,Bed Census,2
+FLAGLER,Bed Census,87
+ESCAMBIA,Bed Census,1000
+DUVAL,Bed Census,2613
+DESOTO,Bed Census,21
+COLUMBIA,Bed Census,129
+COLLIER,Bed Census,715
+CLAY,Bed Census,447
+CITRUS,Bed Census,217
+CHARLOTTE,Bed Census,507
+CALHOUN,Bed Census,7
+BROWARD,Bed Census,4172
+BREVARD,Bed Census,1153
+BAY,Bed Census,414
+BAKER,Bed Census,530
+ALACHUA,Bed Census,1397
