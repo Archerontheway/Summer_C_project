@@ -35,6 +35,10 @@ https://data.hrsa.gov/topics/health-workforce/ahrf
 
 http://www.usa.com/rank/florida-state--land-area--county-rank.htm
 
+9. definitive healthcare covid-19 capacity
+
+https://www.definitivehc.com/resources/covid-19-capacity-predictor
+
 Other Sources:
 
 2016 Florida Price Level Index:
